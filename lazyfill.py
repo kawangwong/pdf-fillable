@@ -12,6 +12,7 @@ ANNOT_RECT_KEY = '/Rect'
 SUBTYPE_KEY = '/Subtype'
 WIDGET_SUBTYPE_KEY = '/Widget'
 
+##keys taken from akdux.com
 
 columns = []
 
